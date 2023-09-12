@@ -1,0 +1,76 @@
+D:\Faks\TVP\andjelamitrovic\projekat\bin\Debug\TVP_Projekat.exe.config
+D:\Faks\TVP\andjelamitrovic\projekat\bin\Debug\TVP_Projekat.exe
+D:\Faks\TVP\andjelamitrovic\projekat\bin\Debug\TVP_Projekat.pdb
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.Properties.Resources.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.exe
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.pdb
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\projekat.csprojAssemblyReference.cache
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaAdmin.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaFilmovi.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaKupac.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaKupci.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaNovaRezervacija.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaPocetna.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaProjekcije.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaRegistracija.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaRezervacije.resources
+D:\Faks\TVP\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaSale.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\bin\Debug\TVP_Projekat.exe.config
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\bin\Debug\TVP_Projekat.exe
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\bin\Debug\TVP_Projekat.pdb
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\projekat.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaAdmin.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaFilmovi.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaKupac.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaKupci.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaNovaRezervacija.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaPocetna.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaProjekcije.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaRegistracija.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaRezervacije.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.formaSale.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.Properties.Resources.resources
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.exe
+C:\Users\Stefan\Desktop\I_projekat_nrt_29_19\andjelamitrovic\projekat\obj\Debug\TVP_Projekat.pdb
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\bin\Debug\TVP_Projekat.exe.config
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\bin\Debug\TVP_Projekat.exe
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\bin\Debug\TVP_Projekat.pdb
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\projekat.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaAdmin.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaFilmovi.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaKupac.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaKupci.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaNovaRezervacija.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaPocetna.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaProjekcije.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaRegistracija.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaRezervacije.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.formaSale.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.Properties.Resources.resources
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.exe
+C:\Users\Stefan\Desktop\stefannrt2819_TVP_prvi_projekat - Copy\projekat\obj\Debug\TVP_Projekat.pdb
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\bin\Debug\TVP_Projekat.exe.config
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\bin\Debug\TVP_Projekat.exe
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\bin\Debug\TVP_Projekat.pdb
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\projekat.csprojAssemblyReference.cache
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaAdmin.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaFilmovi.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaKupac.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaKupci.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaNovaRezervacija.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaPocetna.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaProjekcije.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaRegistracija.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaRezervacije.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.formaSale.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.Properties.Resources.resources
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\projekat.csproj.GenerateResource.cache
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\projekat.csproj.CoreCompileInputs.cache
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.exe
+C:\Users\Boško\Documents\tvp\Projekat1_FINAL\projekat\obj\Debug\TVP_Projekat.pdb
